@@ -76,14 +76,6 @@
     "ikun": {
       "api": "https://ikunzyapi.com/api.php/provide/vod",
       "name": "iKun资源"
-    },
-    "18": {
-      "api": "https://api.bwzyz.com/api.php/provide/vod",
-      "name": "18"
-    },
-    "hk": {
-      "api": "https://zy.xmm.hk/api.php/provide/vod",
-      "name": "hk"
     }
   }
 }
